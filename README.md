@@ -11,4 +11,4 @@ This repository contains the files and documentation of the West African History
 The repository has folders for general information and individual episodes. Each episode file includes the raw sound files, sound effects and music for that episode, show notes, script, transcript, and thumbnail image.
 
 # Technology
-The four episodes of season 1 were primarily recorded at the MSU Matrix podcasting studio. Supplemental season 1 recording and further episodes were recorded at the LEADR podcasting studio. Episodes were edited with Audacity.
+The four episodes of season 1 were primarily recorded at the MSU Matrix podcasting studio. Supplemental season 1 recording and further episodes were recorded at the LEADR podcasting studio. Episodes were edited with Audacity or Camtasia.
