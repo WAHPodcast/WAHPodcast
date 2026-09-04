@@ -10833,3 +10833,8 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+
+.my-text {
+  padding-left: 100px;
+  padding-right: 100px;
+}
