@@ -10837,4 +10837,6 @@ textarea.form-control-lg {
 .my-text {
   padding-left: 100px;
   padding-right: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
