@@ -3802,6 +3802,11 @@ textarea.form-control-lg {
   position: static;
 }
 
+.navbar-nav .dropdown:hover > .dropdown-menu,
+.navbar-nav .dropdown:focus-within > .dropdown-menu {
+  display: block;
+}
+
 .navbar-text {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
