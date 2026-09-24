@@ -10838,7 +10838,13 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
-
+.bg-image-full {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  min-height: 220px;
+  background-image: url("../WAHPod-Logo-Green.jpg");
+}
 .my-text {
   padding-left: 100px;
   padding-right: 100px;
