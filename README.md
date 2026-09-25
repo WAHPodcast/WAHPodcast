@@ -2,7 +2,7 @@
 WAHPod files &amp; documentation
 
 # Podcast Origins
-The West African History Podcast was started by Dr. Nwando Achebe in 2026. The podcast focuses on narratives and stories from West African History. Partners include the African Studies Center (MSU), the Journal of West African History (JWAH), and LEADR.
+The West African History Podcast was started by Dr. Nwando Achebe in 2026. The podcast focuses on narratives and stories from West African History. Partners include the African Studies Center (MSU), the Journal of West African History (JWAH), and LEADR (Lab for the Education and Advancement in Digital Research, MSU History & Anthropology Departments).
 
 # Contents
 This repository contains the files and documentation of the West African History Podcast, included in the files for different episodes are the show notes, script, transcript, raw sound files, edited sound files, sound effects, music, and final episode sound files.
@@ -12,3 +12,8 @@ The repository has folders for general information and individual episodes. Each
 
 # Technology
 The four episodes of season 1 were primarily recorded at the MSU Matrix podcasting studio. Supplemental season 1 recording and further episodes were recorded at the LEADR podcasting studio. Episodes were edited with Audacity or Camtasia.
+
+# Miscellaneous Information
+The logo was originally made by Mike Green. Marissa Knaak adapted the logo before the launch of season one, adding a third color, adjusting the outlines, and changing the spacing. Logo editing was done in Affinity.
+
+Information about the season one episodes was provided by Achebe, Fagan, and Ankomahene.
