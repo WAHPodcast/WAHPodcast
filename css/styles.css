@@ -10851,3 +10851,42 @@ textarea.form-control-lg {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+
+.host-heading,
+.host-profile {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.host-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.host-profile img {
+  width: 260px;
+  max-width: 40%;
+  height: auto;
+}
+
+.host-profile p {
+  flex: 1;
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .host-heading,
+  .host-profile {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .host-profile {
+    flex-direction: column;
+  }
+
+  .host-profile img {
+    max-width: 100%;
+  }
+}
