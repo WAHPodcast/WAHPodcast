@@ -10846,6 +10846,7 @@ textarea.form-control-lg {
   background-image: url("../WAHPod-Logo-Green.jpg");
 }
 .my-text {
+  font-size: large;
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 0px;
