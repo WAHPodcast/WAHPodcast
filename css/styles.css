@@ -10870,7 +10870,14 @@ h2.my-text {
 .host-profile {
   display: flex;
   align-items: flex-start;
-  gap: 24px;
+  gap: 12px;
+}
+
+.host-profile p {
+  flex: 1;
+  margin: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .host-profile img {
@@ -10879,10 +10886,7 @@ h2.my-text {
   height: auto;
 }
 
-.host-profile p {
-  flex: 1;
-  margin: 0;
-}
+
 
 @media (max-width: 700px) {
   .host-heading,
