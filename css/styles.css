@@ -10886,6 +10886,28 @@ h2.my-text {
   height: auto;
 }
 
+.image-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 0 100px 16px;
+}
+
+.image-profile img {
+  width: 50%;
+  max-width: 50%;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.image-profile-text {
+  flex: 1;
+}
+
+.image-profile-text p {
+  margin: 0 0 12px;
+  padding: 0;
+}
 
 
 @media (max-width: 700px) {
@@ -10900,6 +10922,17 @@ h2.my-text {
   }
 
   .host-profile img {
+    max-width: 100%;
+  }
+
+  .image-profile {
+    flex-direction: column;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .image-profile img {
+    width: 100%;
     max-width: 100%;
   }
 }
