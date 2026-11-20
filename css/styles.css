@@ -475,6 +475,11 @@ iframe {
   border: 0;
 }
 
+.podcast-player {
+  display: block;
+  margin: 0 auto;
+}
+
 summary {
   display: list-item;
   cursor: pointer;
