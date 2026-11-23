@@ -10898,11 +10898,22 @@ h2.my-text {
   margin: 0 100px 16px;
 }
 
+.image-profile figure {
+  flex: 0 0 50%;
+  margin: 0;
+}
+
 .image-profile img {
-  width: 50%;
-  max-width: 50%;
+  display: block;
+  width: 75%;
+  max-width: 75%;
   height: auto;
   flex-shrink: 0;
+}
+
+.image-profile figcaption {
+  margin-top: 8px;
+  font-size: 0.875rem;
 }
 
 .image-profile-text {
@@ -10936,10 +10947,11 @@ h2.my-text {
     margin-right: 16px;
   }
 
-  .image-profile img {
+  .image-profile figure {
     width: 100%;
-    max-width: 100%;
   }
+
+
 }
 
 .column {
